@@ -59,12 +59,12 @@ The VRS application supports two distinct roles: Administrator and User. Each ro
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/nivin2004/Vehicle-Rental-System.git
+git clone https://github.com/nivin2004/vrs.git
 
 ```
 Navigate to the root directory of the project
 ```bash
-cd VRS
+cd vrs
 ```
 
 ### Backend Setup
